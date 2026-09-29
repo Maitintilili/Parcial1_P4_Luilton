@@ -1,0 +1,6 @@
+@Primer_Parcial_Luilton_HostAddress = http://localhost:5068
+
+GET {{Primer_Parcial_Luilton_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
