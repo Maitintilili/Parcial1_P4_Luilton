@@ -1,6 +1,9 @@
-@Primer_Parcial_Luilton_HostAddress = http://localhost:5068
+@NumberController_HostAddress = http://localhost:5068
 
-GET {{Primer_Parcial_Luilton_HostAddress}}/weatherforecast/
+GET {{NumberController_HostAddress}}/api/number/5
 Accept: application/json
 
 ###
+
+GET {{NumberController_HostAddress}}/api/number/5
+Accept: application/json
