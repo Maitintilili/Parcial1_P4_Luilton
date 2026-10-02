@@ -1,8 +1,8 @@
 using Dapper;
 using Microsoft.Data.Sqlite;
-using Primer_Parcial_Luilton.Models;
+using Parcial1_P4_Luilton.Models;
 
-namespace Primer_Parcial_Luilton.Services;
+namespace Parcial1_P4_Luilton.Services;
 
 public class NumbersService(IConfiguration config)
 {

@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using Primer_Parcial_Luilton.Services;
-using Primer_Parcial_Luilton.Models;
+using Parcial1_P4_Luilton.Services;
+using Parcial1_P4_Luilton.Models;
 
-namespace Primer_Parcial_Luilton.Controllers;
+namespace Parcial1_P4_Luilton.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

@@ -1,9 +1,0 @@
-@NumberController_HostAddress = http://localhost:5068
-
-GET {{NumberController_HostAddress}}/api/number/5
-Accept: application/json
-
-###
-
-GET {{NumberController_HostAddress}}/api/number/5
-Accept: application/json
